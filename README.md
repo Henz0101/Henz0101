@@ -9,7 +9,7 @@
 
 ## Projects I'm proud of:
 
-**💡 Kleek:** A social networking site connecting people in unique ways.
+**💡 NoNameForNow:** A social networking site connecting people in unique ways.
 🔧 Various custom websites and tools to make life easier and more fun.
 
 ## Skills:
