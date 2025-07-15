@@ -5,6 +5,7 @@
 ## What I do:
 
 **🌐 Web Development:** Crafting user-friendly websites with clean code.
+**Game Dev:** For Fun!
 **🚀 Tech Explorer:** Constantly learning and experimenting with new technologies.
 
 ## Projects I'm proud of:
